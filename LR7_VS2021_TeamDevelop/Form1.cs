@@ -19,7 +19,7 @@ namespace LR7_VS2021_TeamDevelop
 
         private void button10_Click(object sender, EventArgs e)
         {
-
+          MessageBox.Show();
         }
 
         private void button13_Click(object sender, EventArgs e)
