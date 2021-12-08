@@ -24,7 +24,7 @@ namespace LR7_VS2021_TeamDevelop
 
         private void button13_Click(object sender, EventArgs e)
         {
-            Close();
+
         }
     }
 }
