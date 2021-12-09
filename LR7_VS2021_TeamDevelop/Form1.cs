@@ -51,5 +51,10 @@ namespace LR7_VS2021_TeamDevelop
         {
             MessageBox.Show("Хочешь жить умей вертеться", "Сообщение");
         }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Вийшли з сином погуляти, він і каже:\n– Яке небо сьогодні блакитне, як заставка Windows!","Заставка Windows",MessageBoxButtons.OK,MessageBoxIcon.Hand);
+        }
     }
 }
