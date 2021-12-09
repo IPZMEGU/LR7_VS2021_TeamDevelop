@@ -232,6 +232,7 @@ namespace LR7_VS2021_TeamDevelop
             this.button16.TabIndex = 15;
             this.button16.Text = "16. Торгонський";
             this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
             // button17
             // 

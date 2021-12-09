@@ -56,5 +56,10 @@ namespace LR7_VS2021_TeamDevelop
         {
             MessageBox.Show("Вийшли з сином погуляти, він і каже:\n– Яке небо сьогодні блакитне, як заставка Windows!","Заставка Windows",MessageBoxButtons.OK,MessageBoxIcon.Hand);
         }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Сколько программистов надо, чтобы вкрутить одну лампочку? – Ни одного.\nВ этом случае отсутствие света – проблема на стороне железа.","Шутеечка", MessageBoxButtons.OK ,MessageBoxIcon.Information);
+        }
     }
 }
