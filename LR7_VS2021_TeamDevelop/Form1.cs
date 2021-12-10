@@ -74,5 +74,10 @@ namespace LR7_VS2021_TeamDevelop
         {
             MessageBox.Show("Скільки вартує кіло гречки, якщо козир чирва!", "Шутеечка", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("hahahahahahha", "Шутеечка", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
