@@ -41,5 +41,15 @@ namespace LR7_VS2021_TeamDevelop
         {
             MessageBox.Show("За законом геометрії якщо чоловік 4 рази піде ліворуч, то прийде додому.", "Увага анекдот", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
         }
+
+        private void button23_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Хочешь жить умей вертеться", "Сообщение");
+        }
     }
 }
