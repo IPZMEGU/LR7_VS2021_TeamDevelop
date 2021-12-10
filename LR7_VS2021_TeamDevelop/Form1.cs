@@ -69,5 +69,10 @@ namespace LR7_VS2021_TeamDevelop
                "Тут один сталкер трішки очухався:\n - Ну ти даєш! - Здивовано каже, - Ти де так водити навчився?\n\nА водила сміється:\n – Хех! Ось я раніше в Києві на маршрутці працював...",
                "Анекдот із Сталекра", MessageBoxButtons.OK, MessageBoxIcon.None);
         }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Скільки вартує кіло гречки, якщо козир чирва!", "Шутеечка", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
