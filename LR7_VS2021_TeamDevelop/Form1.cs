@@ -79,5 +79,10 @@ namespace LR7_VS2021_TeamDevelop
         {
             MessageBox.Show("hahahahahahha", "Шутеечка", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Заходит однажды в бар улитка и говорит:\n- Можно виски с колой ?\n-Простите, но мы не обслуживаем улиток.\nИ бармен вышвырнул ее за дверь.\nЧерез неделю заходит опять эта улитка и спрашивает:\n-Зачем ты это сделал ?", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
